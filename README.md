@@ -9,5 +9,10 @@
 4. git add .
 5. git push -u origin master
 
+### 当你在github上提前先创建好了库
+
+
+### 问题
+
 
 
