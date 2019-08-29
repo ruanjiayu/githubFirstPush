@@ -6,7 +6,7 @@ package com.xian.demo;
  * @CreateDate: 2019/8/29  11:00
  * @Version: 0.0.1-SHAPSHOT
  */
-public class hello {
+public class Hello {
 
     public static void main(String[] args) {
         System.out.println("hello world");
